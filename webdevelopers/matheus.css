@@ -24,10 +24,9 @@ header, section, footer{
 #imagem-perfil{
     width: 100%;
     max-width: 600px;
-    border-radius: 50%;
 }
 .button{
-    background-color: blue;
+    background-color: #ED27E8;
     color: white;
     padding: 1em;
     margin: 1em 0;
